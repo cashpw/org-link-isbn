@@ -1,0 +1,5 @@
+#+title: org-link-isbn
+
+#+begin_example org-mode
+[[isbn:9781439144831][How to Read a Book]]
+#+end_example
